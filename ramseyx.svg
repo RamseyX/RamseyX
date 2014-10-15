@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91pre2 r13516"
+   viewBox="0 0 240 240"
+   sodipodi:docname="ramseyx.svg">
+  <title
+     id="title4135">The RamseyX Project Logo</title>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The RamseyX Project Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Zizheng Tai</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-668.57142,-569.50507)">
+    <path
+       id="path4148"
+       style="fill:#0b5d9f"
+       d="m 741.69641,614.36907 c 0,0 26.95705,0.15141 36.25301,0.436 9.29596,0.28459 30.72432,3.11521 31.09101,23.538 0.36669,20.42279 -17.49223,23.05218 -31.09101,23.537 -13.59878,0.48482 0,0 -36.25301,0.437 z m 71.52927,125.99382 23.52709,39.14218 20.9208,0 -32.30715,-59.95741 27.59796,-50.66759 -21.08429,0 -17.95283,31.04249 c -8.56471,-9.36086 -12.04361,-15.57183 -21.65712,-22.40679 9.78554,-2.58972 20.13993,-7.29806 25.76779,-13.44923 5.46368,-6.07693 8.17212,-13.25008 8.75664,-23.19155 0.76727,-13.04958 -3.09805,-24.71807 -10.70676,-32.32115 -8.85578,-8.84925 -15.06523,-9.91085 -58.21952,-9.95356 l -33.04688,-0.0327 0,144.375 16.875,0 0,-63.75 14.29688,0.0206 c 16.31391,0.0235 19.41876,0.89102 25.4631,7.11468 5.2302,5.38537 21.47456,30.90731 21.41519,33.64598 l -33.18778,59.53125 21.46049,0 z m -144.65427,-170.85782 240,0 0,240 -240,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzcccccccccccsssccccssccccccccc" />
+  </g>
+</svg>
