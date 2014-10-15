@@ -21,7 +21,13 @@ Login
 
 `username` and `password` are posted to `validate_user.php`.
 
+### Return status
+
+
 Register
 -----
 
 All the fields are posted to the server (`sign_up.php`.)
+
+### Return status
+
